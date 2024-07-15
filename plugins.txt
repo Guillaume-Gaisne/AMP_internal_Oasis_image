@@ -1,3 +1,4 @@
 nomad-measurements
 nomad-material-processing
 git+https://github.com/Guillaume-Gaisne/nomad-DAMASK_parser.git
+git+https://github.com/Guillaume-Gaisne/nomad-SXDM_parser.git
